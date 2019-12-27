@@ -1,3 +1,3 @@
 ### Fubos
 
-*Coming Soon
+* Coming soon
